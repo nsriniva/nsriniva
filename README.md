@@ -2,6 +2,8 @@
 
 Hi, I'm Srini! I'm a software engineer with significant experience in the embedded and server space mainly working with Python/C++/C and some occasional Javascript.
 
+I've recently made a foray into the Data Science space.
+
 Find me on LinkedIn at https://www.linkedin.com/in/srininariangadu/
 <!--
 **nsriniva/nsriniva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
